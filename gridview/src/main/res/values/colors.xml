@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A21EBB</color>
+    <color name="colorPrimaryDark">#7617B9</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="gridBgColor">#99ccff</color>
+    <color name="gridtintColor">#ff3300</color>
+
+</resources>

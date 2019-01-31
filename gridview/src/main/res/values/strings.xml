@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GridView</string>
+    <string name="custom_gridview">Custom GridView</string>
+</resources>
