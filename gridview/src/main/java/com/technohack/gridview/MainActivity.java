@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
     private GridView mGridView;
 
-
     private static String []values={
       "Value1",
       "Value2",
@@ -31,22 +30,13 @@ public class MainActivity extends AppCompatActivity {
             "Value12",
 
     };
-
-    private Button customBtn;
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        customBtn=findViewById(R.id.main_buttonId);
-        // navigate to another activity
-        customBtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this,CustomGridView.class));
-            }
-        });
 
         //Taking the reference of the GridView so that we can take the add some functionality on the GricView
         mGridView=findViewById(R.id.main_gridViewId);
@@ -62,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
                 view.setBackgroundColor(Color.parseColor("#ff6600"));
                 view.setElevation(10);
+
 
                 Toast.makeText(MainActivity.this, "Item Clicked At Position:"+(position+1), Toast.LENGTH_SHORT).show();
 
