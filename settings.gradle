@@ -1,1 +1,1 @@
-include ':listview', ':menus', ':dialogs', ':scrollview', ':toolbar_actionbar', ':gridview', ':intents'
+include ':listview', ':menus', ':dialogs', ':scrollview', ':toolbar_actionbar', ':gridview', ':intents', ':slidingrootnavigation'
