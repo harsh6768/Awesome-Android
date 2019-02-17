@@ -6,5 +6,10 @@
 width="250" height="450" >.........................<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/sliding_root_nav2.jpeg" alt="" width="250" height="450" >
 
 <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/menu1.jpeg" alt="" width="250" height="450">.........................<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/menu2.jpeg" alt="" width="250" height="450" >
-......... <img src="https://github.com/octivia/E-commerce/blob/master/Upload_Image/Screenshot_20190113-153813.png"
+......... <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/menu3.jpeg"
 alt="" width="250" height="450" >
+
+<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent1.jpeg" alt="" width="250" height="450">.........................<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent2.jpeg" alt="" width="250" height="450" >
+
+
+
