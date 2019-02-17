@@ -18,7 +18,9 @@ width="250" height="450" >.........................<img src="https://github.com/
      <li>1.  Options Menu</li>
       <li>2. Context Menu</li>
       <li>3. Popup Menu</li>
-     </ul>
+ </ul>
+ 
+ 
 <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/menu1.jpeg" alt="" width="250" height="450">.........................<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/menu2.jpeg" alt="" width="250" height="450" >
 ......... <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/menu3.jpeg"
 alt="" width="250" height="450" >
