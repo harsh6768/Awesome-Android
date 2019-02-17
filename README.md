@@ -26,6 +26,17 @@ width="250" height="450" >.........................<img src="https://github.com/
 alt="" width="250" height="450" >
 
 ### 1. Intents
+ <ul>
+     <li>1.  Implicit Intent
+       <ul>
+     <li>1. Call Dialer </li>
+      <li>2.Browser</li>
+      <li>3.Send Email</li>
+ </ul>
+     </li>
+      <li>2. Explicit Intents(eg. Navigate to another activity)</li>
+      <li>3. Pending Intents</li>
+ </ul>
 
 <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent1.jpeg" alt="" width="250" height="450">.........................<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent2.jpeg" alt="" width="250" height="450" >
 
