@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Menus</string>
+    <string name="contextual_action_mode">Contextual Action Mode</string>
 </resources>
