@@ -11,4 +11,7 @@
     <string name="pending">Pending Intent</string>
     <string name="explicit">Explicit Intents</string>
     <string name="implicit">Implicit Intent</string>
+    <string name="show_notification">Show Notification</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="send_notification">Send Notification</string>
 </resources>

@@ -11,6 +11,9 @@ public class MainActivity extends AppCompatActivity {
     private Button implicitIntentBtn;
 
     private Button explicitIntentBtn;
+
+    private Button pendingIntent;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -18,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
 
         implicitIntentBtn=findViewById(R.id.btn_implicitIntents);
         explicitIntentBtn=findViewById(R.id.btn_explicitIntents);
+        pendingIntent=findViewById(R.id.btn_PendingIntentsId);
+
         //navigating into the implicit activity
         implicitIntentBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -32,6 +37,17 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this,ImplicitIntent.class));
+            }
+        });
+
+
+        //to open pendingIntent
+        pendingIntent.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                startActivity(new Intent(MainActivity.this,PendingIntents.class));
+
             }
         });
 

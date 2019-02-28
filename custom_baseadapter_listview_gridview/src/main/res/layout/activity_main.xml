@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
    >
-    
+
     <Button
         android:id="@+id/curtom_list_BtnId"
         android:layout_width="234dp"
