@@ -1,3 +1,5 @@
+###
+#### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/pedromassango).Thanks!
 # Android__Basics__Examples
 
 ### In this project i'll cover all the basic which is required to master in Developing Android App
@@ -39,13 +41,18 @@ alt="" width="250" height="450" >
      <li>1. Call Dialer </li>
       <li>2.Browser</li>
       <li>3.Send Email</li>
- </ul>
+      </ul>
      </li>
       <li>2. Explicit Intents(eg. Navigate to another activity)</li>
-      <li>3. Pending Intents</li>
+      <li>3. Pending Intents
+       <ul>
+       <li>1. Notification </li>
+       </ul>
+   </li>
  </ul>
 
-<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent1.jpeg" alt="" width="250" height="450">.........................<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent2.jpeg" alt="" width="250" height="450" >
+<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent1.jpeg" alt="" width="250" height="450">.........................<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent2.jpeg" alt="" width="250" height="450" >.......
+<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent3.jpeg" alt="" width="250" height="450">
 
 ### 5. Dialog
 
