@@ -28,11 +28,14 @@ public class Menus extends AppCompatActivity implements PopupMenu.OnMenuItemClic
 
         //calling method for ActionMode.Callback
         contextualActionMode();
+
         contextualActionModeBtn.setOnLongClickListener(new View.OnLongClickListener() {
             @Override
             public boolean onLongClick(View v) {
 
-                startSupportActionMode(callback);
+
+
+               // startSupportActionMode(callback);
 
                 return true;
             }
@@ -110,8 +113,7 @@ public class Menus extends AppCompatActivity implements PopupMenu.OnMenuItemClic
         }
     }
 
-    //
-
+    //For context menu
     @Override
     public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo) {
         getMenuInflater().inflate(R.menu.context_menu,menu);

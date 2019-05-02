@@ -1,1 +1,1 @@
-include ':listview', ':menus', ':dialogs', ':scrollview', ':toolbar_actionbar', ':gridview', ':intents', ':slidingrootnavigation', ':collapsingtoolbar', ':recyclerviewdemo', ':fragmentsdemo', ':custom_baseadapter_listview_gridview'
+include ':menus', ':dialogs', ':scrollview', ':gridview', ':intents', ':slidingrootnavigation', ':collapsingtoolbar', ':staggered_grid_view', ':fragmentsdemo', ':custom_baseadapter_listview_gridview', ':storagedemo', ':tablayoutdemo'

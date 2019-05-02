@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <include layout="@layout/common_app_bar"/>
+
+    <Button
+        android:id="@+id/internal_storage_btnId"
+        android:layout_width="289dp"
+        android:layout_height="54dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="144dp"
+        android:layout_marginEnd="8dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/internal_storage_btn"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/external_storage_btnId"
+        android:layout_width="291dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="104dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/external_storage_btn"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/internal_storage_btnId"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/internal_storage_btnId"
+        app:layout_constraintTop_toBottomOf="@+id/internal_storage_btnId" />
+
+    <Button
+        android:id="@+id/shared_preferences_btnId"
+        android:layout_width="291dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="104dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/sharedpreferences_btn"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/external_storage_btnId"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/external_storage_btnId"
+        app:layout_constraintTop_toBottomOf="@+id/external_storage_btnId" />
+
+</android.support.constraint.ConstraintLayout>
