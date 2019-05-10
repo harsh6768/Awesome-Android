@@ -56,7 +56,9 @@ alt="" width="250" height="450" >
 
 ### 5. Dialog
 
+<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/dialog2.jpeg" alt="" width="250" height="450">
 <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/dialog1.jpeg" alt="" width="250" height="450">
+<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/dialog3.jpeg" alt="" width="250" height="450">
 
 
 
