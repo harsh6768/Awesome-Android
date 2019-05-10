@@ -13,7 +13,7 @@
      }
      
 <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/sliding_root_nav1.jpeg" alt="" 
-width="250" height="450" />.........................<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/sliding_root_nav2.jpeg" alt="" width="250" height="450" >
+width="250" height="450"/> .........................<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/sliding_root_nav2.jpeg" alt="" width="250" height="450" />
 
 ### 2. Menus
 <ul>
@@ -30,8 +30,7 @@ alt="" width="250" height="450" />
 ### 3. Custom ListView and Custom GridView using BaseAdapter
  
  
-<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/custom_list_grid1.jpeg" alt="" width="250" height="450" />.........................<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/custom_list_grid2.jpeg" alt="" width="250" height="450" />
-......... <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/custom_list_grid3.jpeg"
+<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/custom_list_grid1.jpeg" alt="" width="250" height="450" /> .........................<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/custom_list_grid2.jpeg" alt="" width="250" height="450"/> ......... <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/custom_list_grid3.jpeg"
 alt="" width="250" height="450" />
 
 ### 4. Intents
@@ -51,13 +50,14 @@ alt="" width="250" height="450" />
    </li>
  </ul>
 
-<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent1.jpeg" alt="" width="250" height="450"/>.........................
-<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent2.jpeg" alt="" width="250" height="450"/> .......
-<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent3.jpeg" alt="" width="250" height="450"/>
+<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent1.jpeg" alt="" width="250" height="450"/> ......................... <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent2.jpeg" alt="" width="250" height="450"/> ....... <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent3.jpeg" alt="" width="250" height="450"/>
 
 ### 5. Dialog
 
-<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/dialog2.jpeg" alt="" width="250" height="450"/><img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/dialog1.jpeg" alt="" width="250" height="450"/>
+<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/dialog2.jpeg" alt="" width="250" height="450"/>...
+.......
+<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/dialog1.jpeg" alt="" width="250" height="450"/>
+.......
 <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/dialog3.jpeg" alt="" width="250" height="450"/>
 
 
