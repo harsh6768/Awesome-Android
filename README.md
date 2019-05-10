@@ -55,6 +55,10 @@ alt="" width="250" height="450" />
 
 ### 5. Dialog
 
+<ul>
+     <li>1.  Simple Alert Dialog</li>
+      <li>2. Custom Alert Dialog </li>
+ </ul>
 <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/dialog2.jpeg" alt="" width="250" height="450"/>...
 .......
 <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/dialog1.jpeg" alt="" width="250" height="450"/>
