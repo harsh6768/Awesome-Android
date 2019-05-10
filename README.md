@@ -53,12 +53,23 @@ alt="" width="250" height="450" />
 
 <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent1.jpeg" alt="" width="250" height="450"/> ............ <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent2.jpeg" alt="" width="250" height="450"/> ....... <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent3.jpeg" alt="" width="250" height="450"/>
 
-### 5. Dialog
+### 5. Storage
+   <ul>
+     <li>1.  Internal Storage</li>
+      <li>2. External Storage </li>
+     <li>3. SharedPreferences </li>
+ </ul>
+ 
+ <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/Storage1.jpeg" alt="" width="250" height="450"/> ............ <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/Storage2.jpeg" alt="" width="250" height="450"/> ....... <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/Storage3.jpeg" alt="" width="250" height="450"/>
+ 
+
+### 6. Dialog
 
 <ul>
      <li>1.  Simple Alert Dialog</li>
       <li>2. Custom Alert Dialog </li>
  </ul>
+ 
 <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/dialog2.jpeg" alt="" width="250" height="450"/>...
 .......
 <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/dialog1.jpeg" alt="" width="250" height="450"/>
