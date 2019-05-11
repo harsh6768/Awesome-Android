@@ -8,12 +8,10 @@
       
       
 <img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth1.jpeg" alt="" width="270" height="470"/>
-..........
-<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth2.jpeg" alt="" width="270" height="470" />
+..........<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth2.jpeg" alt="" width="270" height="470" />
 
 <img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth3.jpeg" alt="" width="270" height="470"/> 
-............
-<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth4.jpeg" alt="" width="270" height="470" />
+............ <img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth4.jpeg" alt="" width="270" height="470" />
 
 
 ### 2. Sliding Root Navigation
