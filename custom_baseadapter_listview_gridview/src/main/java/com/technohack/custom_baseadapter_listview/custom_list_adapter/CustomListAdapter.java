@@ -11,6 +11,7 @@ import android.widget.TextView;
 import com.technohack.custom_baseadapter_listview.R;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class CustomListAdapter extends BaseAdapter {
 
@@ -38,6 +39,7 @@ public class CustomListAdapter extends BaseAdapter {
         return 0;
     }
 
+
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
 
@@ -56,6 +58,5 @@ public class CustomListAdapter extends BaseAdapter {
         return convertView;
 
     }
-
 
 }

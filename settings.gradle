@@ -1,1 +1,1 @@
-include ':menus', ':dialogs', ':scrollview', ':gridview', ':intents', ':slidingrootnavigation', ':collapsingtoolbar', ':staggered_grid_view', ':custom_baseadapter_listview_gridview', ':storagedemo', ':tablayoutdemo', ':fregmentdemo'
+include ':menus', ':dialogs', ':scrollview', ':gridview', ':intents', ':slidingrootnavigation', ':collapsingtoolbar', ':custom_baseadapter_listview_gridview', ':storagedemo', ':tablayoutdemo', ':fregmentdemo', ':firebase_signin'

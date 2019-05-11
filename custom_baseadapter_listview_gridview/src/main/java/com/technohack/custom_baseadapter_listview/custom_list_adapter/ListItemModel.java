@@ -29,4 +29,5 @@ public class ListItemModel {
     public void setImageTitle(String imageTitle) {
         this.imageTitle = imageTitle;
     }
+
 }

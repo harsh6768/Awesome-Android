@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3c40c6</color>
+    <color name="colorPrimaryDark">#575fcf</color>
+    <color name="colorAccent">#575fcf</color>
+
+    <color name="button">#CBF1C69A</color>
+    <color name="splash">#3c40c6</color>
+    <color name="feedback_color">#29FF03</color>
+    <color name="overlayBackground">#7f333639</color>
+    <color name="overlayActionBar">#0e0d0e</color>
+    <color name="navigationText">#22b5d2</color>
+    <color name="navigationIcon">#00ACC1</color>
+    <color name="errorMessage">#FFE53935</color>
+    <color name="purpleColor">#8515D5</color>
+    <color name="ratingColor">#FAD007</color>
+    <color name="lightGrey">#FEFFFC</color>
+
+</resources>

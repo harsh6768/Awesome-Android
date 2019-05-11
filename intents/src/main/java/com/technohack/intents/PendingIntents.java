@@ -33,6 +33,7 @@ public class PendingIntents extends AppCompatActivity {
         message=messageText.getText().toString().trim();
 
         showNotificationBtn=findViewById(R.id.show_notificationId);
+
         showNotificationBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -72,7 +73,7 @@ public class PendingIntents extends AppCompatActivity {
     private void showNotification() {
 
         //for reply
-        String replyMessage = "Reply";
+       String replyMessage = "Reply";
         RemoteInput remoteInput = new RemoteInput.Builder(KEY_TEXT_REPLY)
                 .setLabel(replyMessage)
                 .build();
@@ -108,7 +109,7 @@ public class PendingIntents extends AppCompatActivity {
                 .addAction(R.drawable.ic_launcher_foreground, "Show", pendingIntent)
                 //add action to reply the message
                 .addAction(replyAction)
-                .setCategory(NotificationCompat.CATEGORY_MESSAGE);
+                .setCategory(NotificationCompat.CATEGORY_CALL);
 
         //to notify the notification
         NotificationManagerCompat notificationManager = NotificationManagerCompat.from(this);
