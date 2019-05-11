@@ -7,15 +7,16 @@
 ### 1. Firebase SignUp,SignIn,ResetPassword,Logout
       
       
-<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth1.jpeg" alt="" width="250" height="450"/>
-...............
-<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth2.jpeg" alt="" width="250" height="450" />
-<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth3.jpeg" alt="" width="250" height="450"/> 
-..............
-<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth4.jpeg" alt="" width="250" height="450" />
+<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth1.jpeg" alt="" width="300" height="450"/>
+..........
+<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth2.jpeg" alt="" width="300" height="450" />
+
+<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth3.jpeg" alt="" width="300" height="450"/> 
+............
+<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth4.jpeg" alt="" width="300" height="450" />
 
 
-### 1. Sliding Root Navigation
+### 2. Sliding Root Navigation
      
    Add dependency to app level gradle file
      
@@ -27,7 +28,7 @@
 width="250" height="450"/> ...............
 <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/sliding_root_nav2.jpeg" alt="" width="250" height="450" />
 
-### 2. Menus
+### 3. Menus
 <ul>
      <li>1.  Options Menu</li>
       <li>2. Context Menu</li>
@@ -39,13 +40,13 @@ width="250" height="450"/> ...............
 ......... <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/menu3.jpeg"
 alt="" width="250" height="450" />
 
-### 3. Custom ListView and Custom GridView using BaseAdapter
+### 4. Custom ListView and Custom GridView using BaseAdapter
  
  
 <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/custom_list_grid1.jpeg" alt="" width="250" height="450" /> ............<img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/custom_list_grid2.jpeg" alt="" width="250" height="450"/> ......... <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/custom_list_grid3.jpeg"
 alt="" width="250" height="450" />
 
-### 4. Intents
+### 5. Intents
  <ul>
      <li>1.  Implicit Intent
        <ul>
@@ -64,7 +65,7 @@ alt="" width="250" height="450" />
 
 <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent1.jpeg" alt="" width="250" height="450"/> ............ <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent2.jpeg" alt="" width="250" height="450"/> ....... <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/intent3.jpeg" alt="" width="250" height="450"/>
 
-### 5. Storage
+### 6. Storage
    <ul>
      <li>1.  Internal Storage</li>
       <li>2. External Storage </li>
@@ -74,7 +75,7 @@ alt="" width="250" height="450" />
  <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/Storage1.jpeg" alt="" width="250" height="450"/> ............ <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/Storage2.jpeg" alt="" width="250" height="450"/> ....... <img src="https://github.com/octivia/Android__Basics__Examples/blob/master/Screenshot/Storage3.jpeg" alt="" width="250" height="450"/>
  
 
-### 6. Dialog
+### 7. Dialog
 
 <ul>
      <li>1.  Simple Alert Dialog</li>
