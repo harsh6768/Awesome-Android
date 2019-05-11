@@ -1,6 +1,6 @@
 ###
 #### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/pedromassango).Thanks!
-# Android__Basics__Examples
+# Awesome-Android
 
 ### In this project i'll cover all the basic which is required to master in Developing Android App
 
