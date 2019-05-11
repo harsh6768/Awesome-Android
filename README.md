@@ -7,11 +7,10 @@
 ### 1. Firebase SignUp,SignIn,ResetPassword,Logout
       
       
-<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth1.jpeg" alt="" width="250" height="450"/> ...............
-<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth2.jpeg" alt="" width="250" height="450" />
-
-<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth3.jpeg" alt="" width="250" height="450"/> ...............
-<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth4.jpeg" alt="" width="250" height="450" />
+<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth1.jpeg" alt="" width="200" height="450"/> 
+<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth2.jpeg" alt="" width="200" height="450" />
+<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth3.jpeg" alt="" width="200" height="450"/> 
+<img src="https://github.com/octivia/Awesome-Android/blob/master/Screenshot/auth4.jpeg" alt="" width="200" height="450" />
 
 
 ### 1. Sliding Root Navigation
